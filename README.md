@@ -44,4 +44,4 @@ Ao final deve se exibir uma mensagem:
 
   Para testar o código
 
-Digitar: node index.js  no terminal de sua ide
+Digitar: node index.js  no terminal de sua IDE
